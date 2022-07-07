@@ -228,6 +228,7 @@ where
             tracing::Level::DEBUG,
             kind = %crate::probe::Kind::SignatureBridge,
             call = "execute_proposal_with_signature",
+            executing = true,
             chain_id = %chain_id.as_u64(),
             data = ?data_hex,
             signature = ?signature_hex,
