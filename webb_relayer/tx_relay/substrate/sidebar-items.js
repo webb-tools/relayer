@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["handle_substrate_tx","Handles a submitted Substrate transaction by processing its `TransactionProgress`."]],"mod":[["anchor",""],["mixer",""],["vanchor",""]]});

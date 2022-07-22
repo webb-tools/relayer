@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["handle_substrate_anchor_relay_tx","Handler for Substrate Anchor commands"]]});

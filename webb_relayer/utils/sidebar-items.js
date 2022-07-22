@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ClickableLink","Represents a clickable link containing text and url"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["ProposalSigningBackend","A Proposal Signing Backend is responsible for signing proposal `P` where `P` is anything really depending on the requirement of the user of this backend."]]});
